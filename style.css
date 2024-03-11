@@ -2,3 +2,9 @@ body {
     background-color: #000000;
     color: rgb(255, 255, 255);
 }
+
+img{
+.cabeçalho-imagem{
+    width: 20%;
+}
+}
